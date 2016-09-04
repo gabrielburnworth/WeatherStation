@@ -1,4 +1,4 @@
-# Weatherstation
+# WeatherStation
 
 Collects and plots data from wind and rain meters
 
@@ -23,6 +23,8 @@ Plug in weatherstation:
 See [additional documentation](#additional-documentation) for wiring details.
 
 ### Set up data collection
+
+On Raspbian (Raspberry Pi):
 
 ```
 git clone https://github.com/gabrielburnworth/WeatherStation
@@ -63,5 +65,7 @@ Rainfall and wind detail plots:
 <img src="https://cloud.githubusercontent.com/assets/12681652/18228112/e2d878fc-71f2-11e6-8f02-3b6f455fa1e2.png" width="50%">
 
 ## Additional Documentation
+
+[Sensor details (PDF)](http://www.sparkfun.com/datasheets/Sensors/Weather/Weather%20Sensor%20Assembly..pdf) from Sparkfun
 
 <img src="https://cloud.githubusercontent.com/assets/12681652/18228110/c9564b48-71f2-11e6-9ef2-b15ed961d5e0.png" width="50%">
