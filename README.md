@@ -2,7 +2,7 @@
 
 Collects and plots data from wind and rain meters
 
-sparkfun anemometer, wind vane, and rain gauge:
+[Sparkfun](https://www.sparkfun.com/products/8942) anemometer, wind vane, and rain gauge:
 
 <img src="https://cloud.githubusercontent.com/assets/12681652/18228111/c9565408-71f2-11e6-955f-e147b627a379.jpg" width="50%">
 
