@@ -18,9 +18,11 @@ Plug in weatherstation:
 | :---: | :---: |
 | ANEMOMETER | 2 |
 | RAIN GUAGE | 3 |
-| WIND VANE | 4 |
+| WIND VANE | A0 |
 
-See [additional documentation](#additional-documentation) for wiring details.
+<img src="https://cloud.githubusercontent.com/assets/12681652/18228412/646dfdf2-7201-11e6-801d-6cbc37090e33.png" width="50%">
+
+Also, see [additional documentation](#additional-documentation).
 
 ### Set up data collection
 
@@ -69,3 +71,8 @@ Rainfall and wind detail plots:
 [Sensor details (PDF)](http://www.sparkfun.com/datasheets/Sensors/Weather/Weather%20Sensor%20Assembly..pdf) from Sparkfun
 
 <img src="https://cloud.githubusercontent.com/assets/12681652/18228110/c9564b48-71f2-11e6-9ef2-b15ed961d5e0.png" width="50%">
+
+| METER | PIN | INTERRUPT |
+| :---: | :---: | :---: |
+| ANEMOMETER | 2 | 0 |
+| RAIN GUAGE | 3 | 1 |
