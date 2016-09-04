@@ -70,7 +70,11 @@ Rainfall and wind detail plots:
 
 [Sensor details (PDF)](http://www.sparkfun.com/datasheets/Sensors/Weather/Weather%20Sensor%20Assembly..pdf) from Sparkfun
 
+###### Wind Vane diagram:
+
 <img src="https://cloud.githubusercontent.com/assets/12681652/18228110/c9564b48-71f2-11e6-9ef2-b15ed961d5e0.png" width="50%">
+
+###### Interrupt pins used:
 
 | METER | PIN | INTERRUPT |
 | :---: | :---: | :---: |
