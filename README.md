@@ -29,6 +29,7 @@ Also, see [additional documentation](#additional-documentation).
 On Raspbian (Raspberry Pi):
 
 ```
+sudo apt-get install python-numpy python-matplotlib python-serial
 git clone https://github.com/gabrielburnworth/WeatherStation
 cd WeatherStation
 bash setup.sh
